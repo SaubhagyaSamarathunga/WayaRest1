@@ -1,0 +1,15 @@
+<html>
+
+<head>
+
+<title> Title of the page </title>
+
+</head>
+
+<body>
+
+This is my first homepage <b> This text is boal <b>
+
+</body>
+
+</html>

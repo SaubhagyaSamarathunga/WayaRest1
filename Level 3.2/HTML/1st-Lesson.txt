@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<title> Title of page </title>
+
+</head>
+
+<body background = "a.jpg">
+
+	This is my first homepage. <b> This text is bold </b>
+
+	<h1> This is a heading </h1>
+	<h2> This is a heading </h2>
+	<h3> This is a heading </h3>
+	<h4> This is a heading </h4>
+	<h5> This is a heading </h5>
+	<h6> This is a heading </h6>
+
+	<p> Sri Lanka,[a] historically known as Ceylon,[b] and officially the Democratic Socialist Republic of Sri Lanka, is an island country in South Asia. It lies in the Indian Ocean, southwest of the Bay of Bengal, separated from the Indian peninsula by the Gulf of Mannar and the Palk Strait. It shares a maritime border with the Maldives in the southwest and India in the northwest. Sri Jayawardenepura Kotte is the legislative capital of Sri Lanka and the largest city, Colombo is the administrative and judicial capital which is the nation's political, financial and cultural centre. Kandy is the second-largest urban area and also the capital of the last native kingdom of Sri Lanka. The most spoken language Sinhala, is spoken by the majority of the population (approximately 17 million). Tamil is also spoken by approximately five million people, making it the second most-spoken language in Sri Lanka. </p>
+
+	<hr> <!--horizontal line-->
+	<!--This
+	is
+	a
+	comment-->
+
+	<p> Sri Lanka has a population of approximately 22 million and is home to several cultures, languages and ethnicities. <br> <br>The Sinhalese people form the majority of the population, followed by the Sri Lankan Tamils, who are the largest minority group and are concentrated in northern Sri Lanka; both groups have played an influential role in the island's history. Other long-established groups include the Moors, Indian Tamils, Burghers, Malays, Chinese, and Vedda.[12] </p>
+	<br> <!--line break--> 
+	<!--Saubhagya-->
+
+	<h1 align="center"> This is heading 1 </h1>
+	<p> Sri Lanka's documented history goes back 3,000 years, with evidence of prehistoric human settlements dating back 125,000 years </p>
+	<br>
+	<h1 align="left"> This is heading 2 </h1>
+	<p> Sri Lanka's documented history goes back 3,000 years, with evidence of prehistoric human settlements dating back 125,000 years </p>
+	<br>
+	<h1 align="right"> This is heading 3 </h1>
+	<p> Sri Lanka's documented history goes back 3,000 years, with evidence of prehistoric human settlements dating back 125,000 years </p>
+
+	<b> Wayamba </b> <br>
+	<big> Wayamba </big> <br>
+	<em> Wayamba </em> <br>
+	<i> Wayamba </i> <br>
+	<small> Wayamba </small> <br>
+	<strong> Wayamba </strong> <br>
+	<b> Wayamba </b> <sub> Wayamba </sub> <br>
+	<b> Wayamba </b><sup> Wayamba </sup> <br>
+	<br>
+
+	<code> Wayamba </code> <br>
+	<kbd> Wayamba </kbd> <br>
+	<tt> Wayamba </tt> <br>
+	<var> Wayamba </var> <br>
+	<b> Wayamba </b><pre> Wayamba </pre> <br>
+
+	<hr>
+	<address> Donald Duck<br> BOX 555<br> USA </address>
+	<img src = "a.jpg" alt = "Sri Lanka" width="500px" height="500px"/>
+	<img src = "https://res.cloudinary.com/enchanting/q_70,f_auto,c_lfill,g_auto/exodus-web/2022/05/sri-lanka.jpg" alt = "Sri Lanka" width="500px" height="500px"/>
+
+</body>
