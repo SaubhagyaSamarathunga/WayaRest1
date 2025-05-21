@@ -1,4 +1,0 @@
-Name. Height. Job.
-Sunil 120.67 TRUE
-Kamal 154.89 FALSE
-Nimal 137.32 NA

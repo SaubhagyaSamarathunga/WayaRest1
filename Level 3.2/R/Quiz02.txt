@@ -1,6 +1,0 @@
-Name Basic_Salary Gender
-Amal 45000 M
-Kamal 48500 M
-Suneetha 43500 F
-Mahesh 54000 M
-Radhika 62000 F

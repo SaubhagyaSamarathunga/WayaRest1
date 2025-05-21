@@ -1,2 +1,0 @@
-X<-c("dog",'cat',NA,"horse")
-X=c(T,F,F,T,NA,T)
